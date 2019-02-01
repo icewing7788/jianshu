@@ -1,5 +1,67 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+除react以外，还使用了如下：
+
+使用redux
+
+```
+npm install --save  redux
+```
+
+使用react-redux
+
+```
+npm install --save  react-redux
+```
+
+使用immutable
+
+```
+npm install immutable
+```
+
+使用redux-immutable
+
+```
+npm install immutable
+```
+
+使用redux-thunk
+
+```
+npm install redux-thunk
+```
+
+使用axios
+
+```
+ npm install axios
+```
+
+使用react-router-dom
+
+```
+ npm install react-router-dom
+```
+
+使用react-loadable
+
+```
+npm install react-loadable
+```
+
+-------------------
+
+## 后续计划
+
+
+
+完善基本功能，去掉简书样式。上线应用。
+
+
+
+----------------------
+
 ## Available Scripts
 
 In the project directory, you can run:
